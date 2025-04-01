@@ -1,7 +1,3 @@
-# Air-Canvas
-Here's a refined version of your text with improved clarity and structure:  
-
----
 
 # Air Canvas Project  
 **Computer Vision Project Using OpenCV**  
@@ -26,5 +22,3 @@ We utilize **color detection and tracking** to achieve marker-based drawing. A m
 - **Python 3**  
 - **NumPy**  
 - **OpenCV**  
-
-This project is a great way to explore **computer vision** and interactive drawing using OpenCV. 🚀
